@@ -48,13 +48,13 @@
     stockrim                    = {name = "stockrim", label = "stockrim", weight = 0, type = "item", image = "stockrim.png", unique = false, useable = true, shouldClose = true, description = "car stockrim"},
     suspension1                 = {name = "suspension1", label = "suspension1", weight = 0, type = "item", image = "suspension1.png", unique = false, useable = true, shouldClose = true, description = "car suspension1"},
     tire                        = {name = "tire", label = "tire", weight = 0, type = "item", image = "tire.png", unique = false, useable = true, shouldClose = true, description = "car tire"},
-    transmission1               = {name = "transmission1", label = "transmission1", weight = 0, type = "item",  image = "transmission1.png", unique = false,  useable = true, shouldClose = true, description = "car transmission1"},
-    trunk                       = {name = "trunk", label = "trunk", weight = 0, type = "item", image = "trunk.png", unique = false,  useable = true, shouldClose = true, description = "car trunk"},
-    turbo                       = {name = "turbo", label = "turbo", weight = 0, type = "item", image = "turbo.png", unique = false,  useable = true, shouldClose = true, description = "car turbo"},
-    oxycutter                   = {name = 'oxycutter', label = 'Zuurstofsnijder', weight = 1500, type = 'item', image = 'oxycutter.png', unique = false, 	useable = false, 	shouldClose = false, combinable = nil, 	description = 'Oxygen cutter, for cutting hard steel'},
-    oxygen-tank                 = {name = 'oxygen-tank', label = 'Oxygen Tank', weight = 500, type = 'item', image = 'oxygen-tank.png', unique = false, useable = false, shouldClose = false, 	combinable = nil, description = 'Oxygen Tank'},
+    transmission1               = {name = "transmission1", label = "transmission1", weight = 0, type = "item", image = "transmission1.png", unique = false, useable = true, shouldClose = true, description = "car transmission1"},
+    trunk                       = {name = "trunk", label = "trunk", weight = 0, type = "item", image = "trunk.png", unique = false, useable = true, shouldClose = true, description = "car trunk"},
+    turbo                       = {name = "turbo", label = "turbo", weight = 0, type = "item", image = "turbo.png", unique = false, useable = true, shouldClose = true, description = "car turbo"},
+    oxycutter                   = {name = 'oxycutter', label = 'Zuurstofsnijder', weight = 1500, type = 'item', image = 'oxycutter.png', unique = false, useable = false, shouldClose = false, combinable = nil, description = 'Oxygen cutter, for cutting hard steel'},
+    oxygen-tank                 = {name = 'oxygen-tank', label = 'Oxygen Tank', weight = 500, type = 'item', image = 'oxygen-tank.png', unique = false, useable = false, shouldClose = false, combinable = nil, description = 'Oxygen Tank'},
     electric_scrap              = {name = 'electric_scrap', label = 'Electric Scrap', weight = 0, type = 'item', image = 'electric_scrap.png', unique = false, useable = false, shouldClose = false, combinable = nil, description = 'Electric Scrap'},
-    ducttape                    = {name = 'ducttape', label = 'ducttape', weight = 100, type = 'item', image = 'ducttape.png', unique = false, useable = false, 	shouldClose = false, 	combinable = nil, description = 'ducttape'},
+    ducttape                    = {name = 'ducttape', label = 'ducttape', weight = 100, type = 'item', image = 'ducttape.png', unique = false, useable = false, shouldClose = false, combinable = nil, description = 'ducttape'},
 ```
 
 # NOTE for the hardware shop
