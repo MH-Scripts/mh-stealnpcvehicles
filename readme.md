@@ -5,20 +5,20 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/MH-Scripts/mh-parkingV2/issues">
-    <img src="https://img.shields.io/github/issues/MH-Scripts/mh-parkingV2"/> 
+  <a href="https://github.com/MH-Scripts/mh-stealnpcvehicles/issues">
+    <img src="https://img.shields.io/github/issues/MH-Scripts/mh-stealnpcvehicles"/> 
   </a>
-  <a href="https://github.com/MH-Scripts/mh-parkingV2/watchers">
-    <img src="https://img.shields.io/github/watchers/MH-Scripts/mh-parkingV2"/> 
+  <a href="https://github.com/MH-Scripts/mh-stealnpcvehicles/watchers">
+    <img src="https://img.shields.io/github/watchers/MH-Scripts/mh-stealnpcvehicles"/> 
   </a> 
-  <a href="https://github.com/MH-Scripts/mh-parkingV2/network/members">
-    <img src="https://img.shields.io/github/forks/MH-Scripts/mh-parkingV2"/> 
+  <a href="https://github.com/MH-Scripts/mh-stealnpcvehicles/network/members">
+    <img src="https://img.shields.io/github/forks/MH-Scripts/mh-stealnpcvehicles"/> 
   </a>  
-  <a href="https://github.com/MH-Scripts/mh-parkingV2/stargazers">
-    <img src="https://img.shields.io/github/stars/MH-Scripts/mh-parkingV2?color=white"/> 
+  <a href="https://github.com/MH-Scripts/mh-stealnpcvehicles/stargazers">
+    <img src="https://img.shields.io/github/stars/MH-Scripts/mh-stealnpcvehicles?color=white"/> 
   </a>
-  <a href="https://github.com/MH-Scripts/mh-parkingV2/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/MH-Scripts/mh-parkingV2?color=black"/> 
+  <a href="https://github.com/MH-Scripts/mh-stealnpcvehicles/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/MH-Scripts/mh-stealnpcvehicles?color=black"/> 
   </a>      
 </p>
 
