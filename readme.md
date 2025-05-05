@@ -58,25 +58,10 @@
 ```
 
 # NOTE for the hardware shop
-Dont forget to add the two items in your hardware shop.
+- Add the two items in your hardware shop.
 ```lua
-
-[16] = {
-    name = "oxycutter",
-    price = 5000,
-    amount = 15,
-    info = {},
-    type = "item",
-    slot = 16,
-},
-[17] = {
-    name = "oxygen-tank",
-    price = 1000,
-    amount = 15,
-    info = {},
-    type = "item",
-    slot = 17,
-},
+[16] = {name = "oxycutter", price = 5000, amount = 15, info = {}, type = "item", slot = 16},
+[17] = {name = "oxygen-tank", price = 1000, amount = 15, info = {}, type = "item", slot = 17},
 ```
 
 
