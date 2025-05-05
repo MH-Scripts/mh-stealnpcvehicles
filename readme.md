@@ -26,7 +26,7 @@
 - [Subscribe](https://www.youtube.com/@MaDHouSe79) 
 
 # MH Steal Npc Vehicles
-- steal any npc vehicles
+- You can steal any npc vehicle and scrap it for vehicle parts.
 
 # Add in `qb-core/shared/items.lua`
 ```lua
